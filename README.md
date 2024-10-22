@@ -7,9 +7,9 @@ This repository stores the development for the website. This website will displa
 This business is in collaboration with the [Forward Program](https://www.forwardbylutes.fi/) by [LUTES](https://www.lutes.fi/) from [LUT University](https://www.lut.fi/en), Lappeenranta, Finland.
 ## Authors
 ### Founders
-* Alejandro Luna del Cerro
-* Laura Calleja
-* Pablo Cavas
+* [Alejandro Luna](https://www.linkedin.com/in/alejandro%2Dluna%2Ddel%2Dcerro/)
+* [Laura Calleja](https://www.linkedin.com/in/laura-calleja-garc%C3%ADa-navas-66537029a/)
+* [Pablo Cavas](https://www.linkedin.com/in/pablo-cavas-le%C3%B3n-0b8291236/)
 ### Co-founders
 * Jorge Navarro
 * Álvaro López
